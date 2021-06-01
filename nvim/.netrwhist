@@ -1,4 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/itallosa/Work/neovim-settings/nvim'
+let g:netrw_dirhist_4='/home/itallosa/Work/neovim-settings'
+let g:netrw_dirhist_3='/home/itallosa/Work'
 let g:netrw_dirhist_2='/home/itallosa/.config/nvim/plugged/dracula'
 let g:netrw_dirhist_1='/home/itallosa/.config/nvim/plugged'
